@@ -42,8 +42,8 @@ The dataset can be found in this project folder under the name `bank-marketing-c
 2. `job`. Type of job (categorical)
 3. `marital`. Marital status (categorical)
 4. `education`. Level of education (categorical)
-5. `default`. do you currently have credit (categorical) 6. housing.
-6. `housing`. do you have a housing loan (categorical) 7. loan.
+5. `default`. do you currently have credit (categorical)
+6. `housing`. do you have a housing loan (categorical)
 7. `loan`. Do you have a personal loan? (categorical)
 8. `contact`. Type of contact communication (categorical)
 9. `month`. Last month in which you have been contacted (categorical)
